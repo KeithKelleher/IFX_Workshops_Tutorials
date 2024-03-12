@@ -25,6 +25,7 @@ Break - 5 min
 
 Break - 5 min
 
+
 #### [GSRS/Inxight](https://github.com/ncats/IFX_Workshops_Tutorials/blob/main/202311_AMIA_Workshop/GSRS-Inxight/README.md) (3:30-3:50 pm) - drugs (20 min)
 
 #### Workflows and Open Discussion (3:50-4:30 pm)
